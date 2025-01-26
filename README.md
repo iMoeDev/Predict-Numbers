@@ -6,7 +6,6 @@ A Convolutional Neural Network (CNN) model for handwritten digit recognition usi
 - Test Accuracy: 98.65%
 - Test Loss: 0.0577
 
-![Training Results](assets/training_results.png)
 
 ## Architecture
 ```
